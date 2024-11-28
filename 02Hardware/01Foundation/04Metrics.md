@@ -14,7 +14,7 @@
 
 **OPS**
 
-OPS，Operations Per Second, 每秒操作数。1 TOPS 代表处理器每秒进行一万亿次（$10^12$）计算。
+OPS，Operations Per Second, 每秒操作数。1 TOPS 代表处理器每秒进行一万亿次（$10^(12)$）计算。
 
 OPS/W：每瓦特运算性能。TOPS/W 评价处理器在 1W 功耗下运算能力的性能指标。
 
